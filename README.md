@@ -13,11 +13,16 @@ npm start
 
 ## Testing
 
-Tests are located in the `features/sudoku/__tests__`
+Tests are located in the `features/sudoku/__tests__` [here](https://github.com/grandsyntax/react-sudoku/tree/main/src/features/sudoku/__tests__)
 
 ```
 // Running the tests
 npm test
+
+
+// PASS src/features/sudoku/__tests__/SudokuSlice.js
+// PASS src/App.test.js
+// PASS src/features/sudoku/__tests__/Game.js
 ```
 
 ## Playing the game
